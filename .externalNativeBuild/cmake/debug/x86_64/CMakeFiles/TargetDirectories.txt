@@ -1,0 +1,3 @@
+D:/workspace/demo/OpenCV-android-sdk/sdk/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/opencv_jni_shared.dir
+D:/workspace/demo/OpenCV-android-sdk/sdk/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+D:/workspace/demo/OpenCV-android-sdk/sdk/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
